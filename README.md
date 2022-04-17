@@ -49,9 +49,9 @@
         <dd>
             Adaro Mining Technologies, (ex projects: <br/> SEGA, Disney, Gumi, FunPlus, etc.)
         </dd>
-        <dt>Ex-Founder (exit)</dt>
+        <dt>Former CEO (exit)</dt>
         <dd>
-            HyperGrowth (marketing automation & fraud detection), <br/>GrowthBot (Slack-based marketing chatbot)
+            HyperGrowth (marketing automation & fraud detection, GrowthBot (Slack-based marketing chatbot)
         </dd>
         </dl>
     </div>
