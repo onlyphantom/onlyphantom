@@ -1,6 +1,6 @@
 <div id="toprow">
     <div align="left">
-        <img align="left" width="70%" style="max-width:280px" src="assets/yt_views.png">
+        <img align="left" width="60%" src="assets/yt_views.png">
     </div>
     <div align="right">
         <h2>🤝 Connect with me</h2>
@@ -48,6 +48,10 @@
         <dt>Data Science Consultant</dt>
         <dd>
             Adaro Mining Technologies, (ex projects: <br/> SEGA, Disney, Gumi, FunPlus, etc.)
+        </dd>
+        <dt>Ex-Founder (exit)</dt>
+        <dd>
+            HyperGrowth (marketing automation & fraud detection), <br/>GrowthBot (Slack-based marketing chatbot)
         </dd>
         </dl>
     </div>
