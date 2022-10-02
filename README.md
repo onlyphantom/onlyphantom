@@ -45,15 +45,21 @@
         <dd>
             Singapore NTUC, IBF Singapore, Ngee Ann Polytechnic's CET, <i>various</i>
         </dd>
+        <dt>Principal Consultant, Data Science & Engineering</dt>
+        <dd>
+           Adaro Energy (IDX: ADRO)
+        </dd>
         <dt>Data Science Consultant</dt>
         <dd>
-            Adaro Mining Technologies, (ex projects: <br/> SEGA, Disney, Gumi, FunPlus, etc.)
+           Projects: SEGA, Disney, Gumi, FunPlus, etc.
         </dd>
         <dt>Former CEO (exit)</dt>
         <dd>
             HyperGrowth (marketing automation & fraud detection, GrowthBot (Slack-based marketing chatbot)
         </dd>
         </dl>
+        <h2>☕ Internships</h2>
+        <small>If you're a third- or final-year student looking to intern / work with us (or just need general career advice), reach out to me. I'd love to buy you coffee.</small>
     </div>
 </div>
 
