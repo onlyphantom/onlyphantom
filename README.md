@@ -41,9 +41,9 @@
         <dd>
             <a href="https://supertype.ai">Supertype (Data Science Consultancy)</a>
         </dd>
-        <dt>Instructor</dt>
+        <dt>Instructor, Guest Lecturer</dt>
         <dd>
-            Singapore NTUC, IBF Singapore, Ngee Ann Polytechnic's CET, <i>various</i>
+            Singapore NTUC, IBF Singapore, Ngee Ann Polytechnic's CET, University of Indonesia (through IBM), <i>various</i>
         </dd>
         <dt>Principal Consultant, Data Science & Engineering</dt>
         <dd>
