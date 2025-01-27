@@ -17,7 +17,7 @@ I don't spend a lot of time on social media, but here are a few places you can f
 - [YouTube](https://www.youtube.com/c/samuelchan): I'm trying to get back into making high-quality, long-form tutorials on AI Development, LLM, and other topics that interest me. 
 - [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 20" width="18" height="18" fill="none" style="position:relative; top:2px;">
     <path d="M19.25 8.50488C17.6729 2.63804 12.25 3.00452 12.25 3.00452C12.25 3.00452 4.75 2.50512 4.75 12C4.75 21.4949 12.25 20.9955 12.25 20.9955C12.25 20.9955 16.7077 21.2924 18.75 17.0782C19.4167 15.2204 19.25 11.5049 12.75 11.5049C12.75 11.5049 9.75 11.5049 9.75 14.0049C9.75 14.9812 10.75 16.0049 12.25 16.0049C13.75 16.0049 15.4212 14.9777 15.75 13.0049C16.75 7.00488 11.25 6.50488 9.75 9.00488" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
-</svg>: @officialsamuel](https://www.threads.net/@officialsamuel): I write about my personal startup journey, lessons, observations on the grind, and life as a software entrepreneur.
+</svg>Threads: @officialsamuel](https://www.threads.net/@officialsamuel): I write about my personal startup journey, lessons, observations on the grind, and life as a software entrepreneur.
 - [LinkedIn](https://www.linkedin.com/in/chansamuel/): I'm not very active here, but I post work-related, professional updates here usually about Supertype, Algoritma or Sectors.
 
 
@@ -45,7 +45,7 @@ I regularly write its community blog and dev log on [Sectors Community Bulletin]
 
 ### Data Science and Engineering Consultant
 
-Through my work at Supertype, I lead the data science and engineering initiatives at Alamtri Resources Indonesia (IDX: ADRO) as well as a number of other clients in the financial industry and regulatory space.
+Through my work at Supertype, I lead the data science and engineering initiatives at [Alamtri Resources Indonesia (IDX: ADRO)](https://sectors.app/idx/adro) as well as a number of other clients in the financial industry and regulatory space.
 
 I guest-lecture at (current or past):
 Singapore NTUC, IBF Singapore, Ngee Ann Polytechnic's CET, University of Indonesia (through IBM) etc.
