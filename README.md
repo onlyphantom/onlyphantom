@@ -12,7 +12,7 @@
 </dt>
 </dl>
 
-I don't spend a lot of time on social media, but here are a few places you can follow me. 
+I don't spend a lot of time on social media, but here are a few places you can follow me.
 
 - [YouTube](https://www.youtube.com/c/samuelchan): I'm trying to get back into making high-quality, long-form tutorials on AI Development, LLM, and other topics that interest me. 
 - [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 20" width="18" height="18" fill="none" style="position:relative; top:2px;">
@@ -20,6 +20,8 @@ I don't spend a lot of time on social media, but here are a few places you can f
 </svg>Threads: @officialsamuel](https://www.threads.net/@officialsamuel): I write about my personal startup journey, lessons, observations on the grind, and life as a software entrepreneur.
 - [LinkedIn](https://www.linkedin.com/in/chansamuel/): I'm not very active here, but I post work-related, professional updates here usually about Supertype, Algoritma or Sectors.
 
+A timeline of my work and current commitments:
+- [Samuel, co-founder of Supertype | https://supertype.ai/p/samuel](https://supertype.ai/p/samuel)
 
 ## 💼 Work & Affiliations
 
@@ -40,8 +42,8 @@ lots of proprietary, first-party market research.
 
 It comes with a generous forever-free tier, and paid subscription tiers for users who would like to support the platform and access more advanced features. 
 
-I regularly write its community blog and dev log on [Sectors Community Bulletin](https://sectors.app/bulletin).
-
+Read more about my profile: 
+- [Samuel Chan | Supertype](https://supertype.ai/p/samuel)
 
 ### Data Science and Engineering Consultant
 
@@ -53,11 +55,10 @@ Singapore NTUC, IBF Singapore, Ngee Ann Polytechnic's CET, University of Indones
 
 #### ⏳ Past Work
 Prior to 2015, I've lived for more than a year each in Japan and China, in my capacity as a consultant for:
-SEGA, Disney, Gumi, FunPlus, etc.
-
-I've also been a CEO of a startup, HyperGrowth, a company specializing in marketing automation and fraud detection, with its flagship product GrowthBot being among the pioneers of Slack-based marketing chatbots. I sold the company in 2016.
+SEGA, Disney, Gumi, FunPlus, etc. In 2016, I sold my startup HyperGrowth to a SEGA-invested subsidiary. HyperGrowth is a company specializing in marketing automation and fraud detection, with our flagship product GrowthBot being among the pioneers of Slack-based marketing chatbots.
 
 ## ☕ Personal
 I've lived in many places, and a home-owner in Bogor, Indonesia. I am fluent in English, Bahasa Indonesia, Chinese (Mandarin), Bahasa Melayu and an A2 level in German. 
 
 I've started my first company (as a one-third partner) at 16, and have had my fair share of failures and successes. I'm a big believer in the power of education and apprenticeship, so if you're a third- or final-year student looking to intern / work with us (or just need general career advice), reach out to me. I'd love to buy you coffee and chat.
+
